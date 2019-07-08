@@ -1,0 +1,1 @@
+These are drivers for the 2 common USB to serial chips on these printers and Uno kits.
